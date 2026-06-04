@@ -2,7 +2,7 @@
 
 ## 如何使用 Zwind 实现夸克搜索转存 + 追更
 
-<a href="https://apps.apple.com/us/app/zwind-webdav-server-player/id6755239096" target="_blank">Zwind</a> 创造了独特的“以目录名触发搜索转存”的丝滑体验方式，实现懒人追剧，也再不用费心整理资源～
+<a href="https://apps.apple.com/app/id6755239096" target="_blank">Zwind</a> 创造了独特的“以目录名触发搜索转存”的丝滑体验方式，实现懒人追剧，也再不用费心整理资源～
 
 配置好夸克账号后，你只需要在解析器绑定的目录下创建一个空目录，并将其命名为你想找的资源名称，它就会自动去搜索并转存相关资源到这个文件夹。并且还会自动追更转存。
 
