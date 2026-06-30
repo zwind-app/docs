@@ -48,7 +48,7 @@ After creation, the new item appears in the current folder. Pull down to refresh
 
 Long-press a file or folder row to open its action menu.
 
-![Long-press a file to show open, share, rename, copy, move, duplicate, and delete actions.](/assets/docs/webdav-server/browser-file-operations/file-actions-menu.png)
+![Long-press a file to show the selected item's operation section, including rename, copy, move, duplicate, and delete.](/assets/docs/webdav-server/browser-file-operations/boxed/file-actions-menu.png)
 
 Common actions:
 

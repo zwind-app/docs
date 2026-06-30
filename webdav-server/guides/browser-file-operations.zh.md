@@ -50,7 +50,7 @@ draft: false
 
 长按一个文件或文件夹行，会打开这个项目的操作菜单。
 
-![长按文件后可看到打开、分享、重命名、复制、移动、创建副本和删除等操作。](/assets/docs/webdav-server/browser-file-operations/file-actions-menu.png)
+![长按文件后，框选区域显示重命名、复制、移动、创建副本和删除等项目操作。](/assets/docs/webdav-server/browser-file-operations/boxed/file-actions-menu.png)
 
 常用操作：
 

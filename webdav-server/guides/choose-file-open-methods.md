@@ -28,7 +28,7 @@ The screenshots use the English app UI.
 
 In Browser, long-press the file or folder row. The menu title shows the selected name, and the first group lists the open methods available for that item type.
 
-![Long-press a file to choose Open Default, Text Editor, WebView, System Browser, sharing, and file operations.](/assets/docs/webdav-server/choose-file-open-methods/file-actions-menu.png)
+![Long-press a file to choose from the open-method section at the top of the action menu.](/assets/docs/webdav-server/choose-file-open-methods/boxed/file-actions-menu.png)
 
 Choose **Open (Default)** when you want Zwind to match the file automatically. Choose a named tool when you want to override the default, test another player, or send the item to iOS.
 

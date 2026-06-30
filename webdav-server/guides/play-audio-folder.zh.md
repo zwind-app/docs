@@ -33,7 +33,7 @@ Zwind 的 Music Player 可以直接播放 Browser 里的音频，也可以从单
 
 想自己指定打开方式时，长按音频文件或文件夹，然后选择 **在音乐播放器中打开 / Open in Music Player**。
 
-![在 Browser 中长按项目会打开操作菜单；音频文件和文件夹也在这个菜单位置显示 Music Player 相关选项。](/assets/docs/webdav-server/play-audio-folder/music-open-menu.png)
+![框选区域显示音频文件的 Open Default 和 Open in Music Player。](/assets/docs/webdav-server/play-audio-folder/boxed/music-open-menu.png)
 
 打开单个音频文件时，Zwind 会先播放这个文件，并可能把当前 Browser 列表中附近的可播放音频加入队列。打开文件夹时，Zwind 会先从找到的第一首可播放音频开始，然后继续加载整个文件夹队列。
 

@@ -39,7 +39,7 @@ Zwind 内置了三个轻量内容工具：**Image Viewer / 图片查看器** 用
 
 想自己指定打开路径时，在 Browser 中长按文件。
 
-![在 Browser 中长按文件会打开操作菜单；实际显示的工具取决于选中的文件类型。](/assets/docs/webdav-server/view-image-text-markdown/viewer-open-menu.png)
+![在 Browser 中长按文件会打开操作菜单；框选区域显示 Markdown Preview、Text Editor 和 WebView 选项。](/assets/docs/webdav-server/view-image-text-markdown/boxed/viewer-open-menu.png)
 
 图片文件选择 **打开（默认）/ Open (Default)** 会进入 **Image Viewer / 图片查看器**。如果想走 WebView 的原始渲染路径，例如 SVG 或某个服务返回的网页式图片响应，选择 **在 WebView 中打开 / Open in WebView**。
 

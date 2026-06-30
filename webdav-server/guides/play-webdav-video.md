@@ -31,7 +31,7 @@ In Browser, tap a video file to use Zwind's default video opening path. The defa
 
 Long-press the video file when you want to choose the player yourself.
 
-![Long-press a Browser item to open the action menu; video files use the same menu location for player choices.](/assets/docs/webdav-server/play-webdav-video/video-open-menu.png)
+![The highlighted section shows Open Default and the two Video Player choices for a video file.](/assets/docs/webdav-server/play-webdav-video/boxed/video-open-menu.png)
 
 Video files can show these actions:
 

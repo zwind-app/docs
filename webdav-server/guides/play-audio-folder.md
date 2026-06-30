@@ -31,7 +31,7 @@ In Browser, tap an audio file to use Zwind's default opener. Audio files such as
 
 Long-press an audio file or folder when you want to choose the music path yourself, then choose **Open in Music Player**.
 
-![Long-press a Browser item to open the action menu; audio files and folders use this menu location for Music Player choices.](/assets/docs/webdav-server/play-audio-folder/music-open-menu.png)
+![The highlighted section shows Open Default and Open in Music Player for an audio file.](/assets/docs/webdav-server/play-audio-folder/boxed/music-open-menu.png)
 
 Opening a single audio file starts that file and may add nearby playable audio files from the same Browser listing to the queue. Opening a folder starts from the first playable audio item Zwind finds, then continues loading the folder queue.
 

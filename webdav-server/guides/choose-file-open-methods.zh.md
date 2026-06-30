@@ -30,7 +30,7 @@ Browser 会根据选中项目的类型选择打开工具。点击文件夹行会
 
 在 Browser 中长按一个文件或文件夹行。菜单标题会显示当前选中的名称，第一组操作就是这个项目可用的打开方式。
 
-![长按文件后可以选择 Open Default、Text Editor、WebView、System Browser、分享和文件操作。](/assets/docs/webdav-server/choose-file-open-methods/file-actions-menu.png)
+![长按文件后，框选区域显示操作菜单顶部的打开方式。](/assets/docs/webdav-server/choose-file-open-methods/boxed/file-actions-menu.png)
 
 想让 Zwind 自动匹配时，选择 **打开（默认）/ Open (Default)**。想指定工具、切换播放器，或交给 iOS 处理时，选择对应的工具名称。
 

@@ -37,7 +37,7 @@ In Browser, tap a supported file to use Zwind's default opener:
 
 Long-press the file when you want to choose the path yourself.
 
-![Long-press a Browser file to open the action menu; the exact tools shown depend on the selected file type.](/assets/docs/webdav-server/view-image-text-markdown/viewer-open-menu.png)
+![Long-press a Browser file to open the action menu; the highlighted section shows Markdown Preview, Text Editor, and WebView choices.](/assets/docs/webdav-server/view-image-text-markdown/boxed/viewer-open-menu.png)
 
 For images, choose **Open (Default)** to open Image Viewer. Choose **Open in WebView** when you want WebView's raw rendering path instead, such as for SVG or for a server response that behaves like a web resource.
 

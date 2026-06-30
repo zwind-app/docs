@@ -34,9 +34,9 @@ Browser opens the selected server by using the current server address. If the se
 
 ## Read the Browser toolbar
 
-The top bar shows the current WebDAV address and path. The folder list below it shows the entries in that directory.
+The top bar shows the current WebDAV address and path. The list below it shows the entries in that directory.
 
-![Browser shows the current address, path, folders, and files.](/assets/docs/webdav-server/browse-files-with-browser/browser-root-list.png)
+![Browser shows the current address, root path, and a mounted folder entry.](/assets/docs/webdav-server/browse-files-with-browser/boxed/browser-root-list.png)
 
 Use the toolbar controls this way:
 
